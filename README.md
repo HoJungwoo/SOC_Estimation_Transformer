@@ -4,8 +4,8 @@ September 2023 - September 2024
 ### 🎯 Objective
 Enhance SOC estimation accuracy with an Asymmetric-Transformer model that leverages current derivative data.
 ### 🛠 Tech Stack
-Language: Python
-Library: PyTorch
+Language: Python 3.10.9
+Library: PyTorch 2.0.0+cu118
 ### 📂 Project Location
 Files are located in the 'Project1_Using Asymmetric-Transformer' folder of this repository.
 ### 📜 Project Description
@@ -22,8 +22,8 @@ January 2024 - January 2025
 ### 🎯 Objective
 Combine CNN and Transformer strengths to improve SOC estimation accuracy by capturing both global and local data features.
 ### 🛠 Tech Stack
-Language: Python
-Library: PyTorch
+Language: Python 3.10.9
+Library: PyTorch 2.0.0+cu118
 ### 📂 Project Location
 Files are located in the 'Project2_Using CNN-Transformer' folder of this repository.
 ### 📜 Project Description
